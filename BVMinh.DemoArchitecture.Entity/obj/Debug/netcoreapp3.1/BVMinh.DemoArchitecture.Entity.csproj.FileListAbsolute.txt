@@ -1,0 +1,9 @@
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.deps.json
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.csprojAssemblyReference.cache
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.AssemblyInfoInputs.cache
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.AssemblyInfo.cs
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.pdb
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.csproj.CoreCompileInputs.cache
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.Entity\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.pdb

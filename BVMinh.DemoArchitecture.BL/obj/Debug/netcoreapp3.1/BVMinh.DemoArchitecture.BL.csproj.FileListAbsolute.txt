@@ -1,0 +1,16 @@
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.deps.json
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.csprojAssemblyReference.cache
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.AssemblyInfoInputs.cache
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.AssemblyInfo.cs
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Common.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.DL.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.pdb
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.DL.pdb
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Common.pdb
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\bin\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.Entity.pdb
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.csproj.CoreCompileInputs.cache
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.csproj.CopyComplete
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.dll
+E:\DemoArchitecture\BVMinh.DemoArchitecture.Web\BVMinh.DemoArchitecture.BL\obj\Debug\netcoreapp3.1\BVMinh.DemoArchitecture.BL.pdb

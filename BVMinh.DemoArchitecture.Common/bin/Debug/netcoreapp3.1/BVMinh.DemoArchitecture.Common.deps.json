@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BVMinh.DemoArchitecture.Common/1.0.0": {
+        "runtime": {
+          "BVMinh.DemoArchitecture.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BVMinh.DemoArchitecture.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
